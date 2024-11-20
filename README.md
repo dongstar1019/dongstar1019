@@ -1,4 +1,4 @@
-## Hi there 👋
+## OSS 수업 관련 👋
 
 <!--
 **dongstar1019/dongstar1019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
